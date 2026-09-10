@@ -18,7 +18,6 @@ This repository contains my internship report, presentation, and completion cred
 | **Semester** | 5th Semester |
 | **Internship Domain** | Concrete Technology & Quality Control (Ready-Mix Concrete) |
 | **Duration** | 3 Months (1 June 2026 – 31 August 2026) |
-| **GitHub** | [@your-github-handle](https://github.com/your-github-handle) |
 
 ---
 
