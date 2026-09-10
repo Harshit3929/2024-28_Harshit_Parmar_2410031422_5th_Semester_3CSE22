@@ -101,46 +101,6 @@ The internship focused on building a strong practical foundation in **concrete t
 
 ---
 
-## 📄 Report Structure
-
-1. Candidate's Declaration
-2. Acknowledgement
-3. Internship Completion Certificate
-4. Project Description
-   - 4.1 Introduction
-   - 4.2 Organization Profile
-   - 4.3 Problem Statement
-   - 4.4 Project Objectives
-   - 4.5 Scope of the Project
-   - 4.6 Technologies and Tools Used
-   - 4.7 System Architecture
-   - 4.8 Methodology
-   - 4.9 Expected Outcomes
-   - 4.10 Certificates of Completion and Communication Proof
-5. Bibliography/References
-
----
-
-## 🎤 Presentation Structure
-
-| Slide | Title |
-|---|---|
-| 1 | Title — Research & Development in Concrete Production |
-| 2 | Candidate & Program Overview |
-| 3 | Organization Profile |
-| 4 | Problem Statement & Industry Context |
-| 5 | Project Objectives |
-| 6 | Materials, Tools & Standards Used |
-| 7 | System Architecture |
-| 8 | Methodology & Execution |
-| 9 | Project Scope & Deliverables |
-| 10 | Expected Outcomes & Skills Demonstrated |
-| 11 | Internship Completion Certificate |
-| 12 | References |
-| 13 | Thank You |
-
----
-
 ## 🙏 Acknowledgement
 
 Thanks to Sunshine Readymix and the Research & Development (R&D) Department of their Ready-Mix Concrete Plant for the opportunity and the practical exposure, and to IILM University, Greater Noida for continuous support throughout the programme.
