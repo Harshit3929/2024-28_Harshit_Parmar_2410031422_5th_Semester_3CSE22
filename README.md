@@ -40,28 +40,6 @@ The internship focused on building a strong practical foundation in **concrete t
 
 ---
 
-## 🗓️ Phase-wise Schedule
-
-| Phase | Month | Module | Description |
-|---|---|---|---|
-| 1 | June 2026 | Orientation & Material Study | Plant layout and safety procedures; study of the constituent materials of concrete |
-| 1 | June 2026 | Incoming Material Testing | Tests carried out on incoming consignments of cement, aggregates, water and admixtures |
-| 2 | July 2026 | Mix Design | Proportioning of concrete mixes for target grades; target mean strength and water-cement ratio |
-| 2 | July 2026 | Laboratory Testing | Trial mixes, slump testing, casting and curing of specimens |
-| 3 | August 2026 | Production & Batching | Observation of the computerised batching process and live plant operation |
-| 3 | August 2026 | Quality Control | Fresh concrete testing at discharge; 7-day and 28-day compressive strength verification |
-| Final | August 2026 | Documentation | Maintenance of quality control records and batch traceability |
-
-> **Note:** The internship was carried out on-site at the Ready-Mix Concrete plant. Phase definitions mirror the Methodology section (4.8) of the internship report.
-
----
-
-## 🛠️ Materials, Tools & Standards
-
-`Ordinary Portland Cement (OPC)` · `Portland Pozzolana Cement (PPC)` · `Coarse & Fine Aggregates` · `Chemical Admixtures` · `Concrete Mix Design` · `Compression Testing Machine` · `Slump Cone Apparatus` · `Sieve Shaker` · `Curing Tank` · `Computerised Batching Plant` · `Transit Mixers` · `IS 456` · `IS 10262` · `IS 383` · `IS 1199` · `IS 516`
-
----
-
 ## 🏆 Certification & Credentials
 
 | Field | Details |
@@ -72,19 +50,6 @@ The internship focused on building a strong practical foundation in **concrete t
 | **Department** | Research & Development (R&D) |
 | **Industry** | Ready-Mix Concrete (RMC) |
 | **Issued By** | Sunshine Readymix, Rithoj Road, Village Bhondsi, Haryana – 122102 |
-| **GSTIN** | `06CNCPG9734Q2ZD` |
-
-### 🔗 Reference Links
-
-- Bureau of Indian Standards: https://www.bis.gov.in/
-- IS 456 : 2000 — Plain and Reinforced Concrete, Code of Practice
-- IS 10262 : 2019 — Concrete Mix Proportioning, Guidelines
-- IS 383 : 2016 — Coarse and Fine Aggregate for Concrete, Specification
-- IS 1199 : 2018 — Fresh Concrete, Methods of Sampling, Testing and Analysis
-- IS 516 : 2021 — Hardened Concrete, Methods of Test
-- IILM University, Greater Noida: https://www.iilm.edu.in/
-
-> Certificate authenticity can be verified directly with Sunshine Readymix using the contact details printed on the certificate letterhead.
 
 ---
 
